@@ -105,7 +105,7 @@ Use the pick up time for your calculations.
 
 - 2019-09-18
 - 2019-09-16
-- 2019-09-26
+- 2019-09-26 &larr;
 - 2019-09-21
 
 answer:
@@ -133,7 +133,7 @@ Consider lpep_pickup_datetime in '2019-09-18' and ignoring Borough has Unknown
 
 Which were the 3 pick up Boroughs that had a sum of total_amount superior to 50000?
  
-- "Brooklyn" "Manhattan" "Queens"
+- "Brooklyn" "Manhattan" "Queens" &larr;
 - "Bronx" "Brooklyn" "Manhattan"
 - "Bronx" "Manhattan" "Queens" 
 - "Brooklyn" "Queens" "Staten Island"
@@ -195,7 +195,7 @@ Note: it's not a typo, it's `tip` , not `trip`
 
 - Central Park
 - Jamaica
-- JFK Airport
+- JFK Airport &larr;
 - Long Island City/Queens Plaza
 
 answer:
