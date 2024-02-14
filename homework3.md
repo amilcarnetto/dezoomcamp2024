@@ -1,6 +1,6 @@
 
 ## Create an external table using the Green Taxi Trip Records Data for 2022.
-Create a table in BQ using the Green Taxi Trip Records for 2022 (do not partition or cluster this table). After uploading all the parquet files  to a specific bucket **green_taxi_de_amilcar** create the database using this **SQL** directly on BigQuery:
+Create a table in BQ using the Green Taxi Trip Records for 2022 (do not partition or cluster this table). After uploading all the parquet files  to a specific bucket **green_taxi_de_amilcar** create the database using this **SQL** directly on BigQuery: 
 
 <pre>
 # external table
